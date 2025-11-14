@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.boton1 {
+    background-color: rgba(16, 15, 15, 0.923);
+    color: rgba(244, 238, 238, 0.949);
+}
+
+.boton2 {
+    background-color: rgba(247, 247, 22, 0.982);
+}
+
+.boton1,
+.boton2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
