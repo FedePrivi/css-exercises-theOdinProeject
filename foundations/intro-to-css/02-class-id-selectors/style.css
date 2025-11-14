@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.impar {
+    background: rgb(220, 105, 134);
+    font-family: Verdana, sans-serif;
+}
+
+#segundo {
+    color: rgb(11, 8, 179);
+    font-size: 36px;
+}
+
+#cuarto {
+    background: rgba(49, 244, 107, 0.895);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.impar.tercero {
+    font-size: 24px;
+}

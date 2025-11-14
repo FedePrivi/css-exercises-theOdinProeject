@@ -23,3 +23,29 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+----------------------------------------------------------------------------------------------------------
+
+Selectores de Clase e ID
+Saber cómo añadir atributos de clase e ID a los elementos HTML, así como utilizar sus respectivos selectores, es invaluable. Es importante practicar su uso. 
+
+Se proporcionan varios elementos en el archivo HTML, a los cuales tendrás que añadir atributos de clase o ID, como se indica en la imagen del resultado deseado que se muestra a continuación. Luego tendrás que añadir reglas en el archivo CSS utilizando la sintaxis de selector correcta. Observa la imagen del resultado deseado cuidadosamente e intenta tener en cuenta qué elementos tienen un estilo similar (clases), cuáles pueden ser completamente únicos del resto (ID) y cuáles tienen ligeras variaciones respecto a otros (múltiples clases).
+    
+No es del todo importante qué valores de clase o ID utilices, ya que el enfoque aquí es ser capaz de añadir los atributos y usar la sintaxis de selector correcta para dar estilo a los elementos. Para los colores en este ejercicio, intenta usar un valor que no sea una palabra clave (RGB, HEX o HSL). Las propiedades que necesitas añadir a cada elemento son:
+
+Todos los elementos impares: un fondo rojo claro/rosa, y una lista de fuentes que contenga Verdana y DejaVu Sans con sans-serif como respaldo (fallback)
+
+El segundo elemento: texto azul y un tamaño de fuente de 36px
+El tercer elemento: además de los estilos para todos los elementos impares, añade un tamaño de fuente de 24px
+El cuarto elemento: un fondo verde claro, un tamaño de fuente de 24px y negrita
+Consejo rápido: en VS Code, puedes cambiar el formato en el que se muestran los colores (RGB, HEX o HSL) pasando el cursor sobre el valor del color en el CSS y haciendo clic en la parte superior del cuadro emergente que aparece.
+
+Nota:
+Parte de tu tarea es añadir una fuente a algunos de estos elementos. Las fuentes de tu navegador pueden ser diferentes a las que se muestran en la imagen del resultado deseado. Siempre que confirmes que las fuentes se están aplicando a las líneas correctas, cualquier diferencia es aceptable para este ejercicio.
+
+Resultado Deseado
+
+Autoevaluación
+¿Los elementos p impares comparten una clase?
+¿Los elementos div pares tienen IDs únicos?
+¿El elemento Número 3 tiene múltiples clases?
