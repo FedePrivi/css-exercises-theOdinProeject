@@ -19,3 +19,23 @@ The properties you need to add to each element are:
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
 - Does the `distorted` image end up looking squished and, well, distorted?
+
+
+-------------------------------------------------------
+
+Encadenamiento de selectores
+
+Los créditos por las imágenes en este ejercicio van para Katho Mutodo y Andrea Piacquadio.
+
+Con este ejercicio, te hemos proporcionado un archivo HTML completo y un archivo CSS para trabajar. El propósito de este ejercicio es centrarse en comprender cómo encadenar diferentes selectores, en lugar de limitarse a añadir atributos. 
+Tenemos dos imágenes para que les apliques estilos, cada una con dos nombres de clase, de los cuales uno es compartido. El objetivo aquí es encadenar los selectores para ambos elementos, de modo que a cada uno se le aplique un estilo único, a pesar de usar un selector de clase compartido. Por ejemplo, quieres que un elemento que tiene tanto X como Y tenga un conjunto de estilos, mientras que un elemento con X y Z tenga un conjunto de estilos completamente diferente. También hemos incluido las imágenes originales para que puedas ver cómo se ven los estilos que añadirás en comparación; por lo tanto, no añadas ningún estilo a estas.
+Las propiedades que debes añadir a cada elemento son:
+
+Haz que el elemento con las clases avatar y proportioned tenga 300 píxeles de ancho, luego dale una altura para que retenga sus proporciones cuadradas originales (¡no escribas un valor de píxel fijo para la altura!).
+Haz que el elemento con las clases avatar y distorted tenga 200 píxeles de ancho, luego haz que su altura sea el doble que su ancho (aquí sí debes escribir un valor de píxel fijo).
+
+Resultado deseado
+Autoevaluación
+¿Encadenaste correctamente los selectores de clase para cada regla?
+¿La imagen proportioned (proporcionada) retiene sus proporciones cuadradas originales?
+¿La imagen distorted (distorsionada) termina viéndose aplastada y, bueno, distorsionada?
