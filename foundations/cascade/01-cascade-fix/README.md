@@ -16,3 +16,20 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 - Did you make sure to not edit the HTML file?
 - If you added selectors to the CSS, do they target a valid HTML element?
+
+-------------------------------------------------------------------------------------------------
+
+Este ejercicio de Fundamentos de CSS te permitirá analizar en detalle la cascada, en particular la especificidad y el orden de las reglas. Tanto el archivo HTML como el CSS ya están listos, así que en lugar de añadir reglas manualmente, simplemente editarás el código proporcionado.
+
+Hay algunos elementos con problemas de especificidad u orden de reglas en el archivo CSS proporcionado. Tu tarea consiste en averiguar qué problema afecta a cada elemento y cómo solucionarlo. Puedes editar el archivo CSS añadiendo, eliminando o modificando selectores para un bloque de declaración, o moviendo los bloques de declaración. **No debes editar el archivo HTML ni los estilos del CSS**.
+
+Existen varias maneras de resolver este ejercicio, por lo que hemos proporcionado algunas soluciones posibles para cada elemento.
+
+Los problemas con la cascada pueden ser una verdadera pesadilla para muchos programadores de CSS. Si bien este ejercicio por sí solo no te convertirá en un experto en cascadas, y existen otras maneras de abordar estos problemas, sigue siendo muy útil ver cómo afectan estos problemas a nuestros estilos finales y por qué es importante ordenar las reglas con cuidado.
+
+
+### Autoevaluación
+
+- ¿Te aseguraste de no editar el archivo HTML?
+
+- Si agregaste selectores al CSS, ¿apuntan a un elemento HTML válido?
